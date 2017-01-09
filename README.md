@@ -1,5 +1,5 @@
-# HelloThings
-A simple Android Things application to get you started with it
+# BlinkThings
+A simple Android Things application to get some LEDs blinking
 
 ## Getting Started
 Follow the directions in [AndroidThings.rocks](https://www.androidthings.rocks) as described in [this article](https://www.androidthings.rocks/2017/01/03/get-started-with-android-things-today/).
